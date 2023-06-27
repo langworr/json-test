@@ -9,9 +9,5 @@
     { "name": "adam", "position": "PositionA", "office": "officeA", "salary": 10 },
     { "name": "adam", "position": "PositionA", "office": "officeA", "salary": 10 },
     { "name": "adam", "position": "PositionA", "office": "officeA", "salary": 10 }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
   ]
 }
